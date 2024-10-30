@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+
+
+}
+#meuGratico{
+    max-width: 300px;
+    max-height: 300px;
+}
